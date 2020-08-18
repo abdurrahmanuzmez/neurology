@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    background-color: #ff8bb6 !important;
+}
+.welcome-title{
+    position: center;
+    color: white;
+}
